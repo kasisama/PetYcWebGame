@@ -1,5 +1,0 @@
-- Repo: https://github.com/kasisama/PetYC, owner kasisama, latest release v0.1.4 [2026-09-01]
-- PetYC has Dockerfile + compose.yml (image petyc:local); no published GHCR/Docker Hub image [2026-09-01]
-- PR #1 merged; Release workflow_dispatch v0.1.4 succeeded, image ghcr.io/kasisama/petyc:0.1.4/v0.1.4/latest is anonymously pullable [2026-09-01]
-- First-pass scope: GHCR only, linux/amd64, publish on v* tags + workflow_dispatch [2026-09-01]
-- User deploys PetYC on their own server with 1Panel; compose uses ghcr.io/kasisama/petyc:0.1.4, bind 127.0.0.1:8080, ./data and ./config [2026-09-01]
