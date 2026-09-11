@@ -162,6 +162,26 @@ var CalendarDays = createLucideIcon("calendar-days", [
 * This source code is licensed under the ISC license.
 * See the LICENSE file in the root directory of this source tree.
 */
+var ChevronLeft = createLucideIcon("chevron-left", [["path", {
+	d: "m15 18-6-6 6-6",
+	key: "1wnfg3"
+}]]);
+/**
+* @license lucide-react v0.510.0 - ISC
+*
+* This source code is licensed under the ISC license.
+* See the LICENSE file in the root directory of this source tree.
+*/
+var ChevronRight = createLucideIcon("chevron-right", [["path", {
+	d: "m9 18 6-6-6-6",
+	key: "mthhwq"
+}]]);
+/**
+* @license lucide-react v0.510.0 - ISC
+*
+* This source code is licensed under the ISC license.
+* See the LICENSE file in the root directory of this source tree.
+*/
 var Compass = createLucideIcon("compass", [["path", {
 	d: "m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z",
 	key: "9ktpf1"
@@ -426,4 +446,4 @@ var Utensils = createLucideIcon("utensils", [
 	}]
 ]);
 //#endregion
-export { Sparkles as a, Footprints as c, Compass as d, CalendarDays as f, Swords as i, Ellipsis as l, TriangleAlert as n, House as o, Backpack as p, Timer as r, Hand as s, Utensils as t, Droplets as u };
+export { Sparkles as a, Footprints as c, Compass as d, ChevronRight as f, Backpack as h, Swords as i, Ellipsis as l, CalendarDays as m, TriangleAlert as n, House as o, ChevronLeft as p, Timer as r, Hand as s, Utensils as t, Droplets as u };
