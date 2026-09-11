@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "宠物养成",
+      "hasCanvas": false,
+      "bodyTextLen": 88,
+      "bodyTextHash": "78e548c9da920ea2fcb34bd90a4afecd8e228b54fa72390ae194dc73b50d66fe",
+      "bodyTextPrefix": "领养 星砂 680 路章 0 自然遗迹调查队 选一只伙伴 点下面头像换一只，确认后再出发。 光芽兽 均衡 背生双叶的原野伙伴，能",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "宠物养成",
+      "hasCanvas": false,
+      "bodyTextLen": 88,
+      "bodyTextHash": "78e548c9da920ea2fcb34bd90a4afecd8e228b54fa72390ae194dc73b50d66fe",
+      "bodyTextPrefix": "领养 星砂 680 路章 0 自然遗迹调查队 选一只伙伴 点下面头像换一只，确认后再出发。 光芽兽 均衡 背生双叶的原野伙伴，能",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

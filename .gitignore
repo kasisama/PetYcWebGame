@@ -1,0 +1,15 @@
+node_modules/
+.project_id
+.github_repo
+.env
+.env.*
+.grok/anim/
+.grok/pet-magenta/
+.grok/*.ttf
+.grok/*.jpg
+.grok/*.png
+artifacts/
+attachments/
+screenshots/
+.vercel/
+.tanstack/
